@@ -1,10 +1,14 @@
-> :v: Built Using Highcharts :pencil2: JavaScript API  to Visualize Data !:mortar_board:
+### For Any Query Ping Me
 
+[![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/divyanshu001)
+
+##
 
 ### Description 
 
-* Highmaps is a HTML5 mapping component optimized for creating schematic maps in web based projects. It extends the user         friendly Highcharts JavaScript API and allows web developers to build interactive maps to display sales, election results or   any other information linked to geography. Perfect for standalone use or in dashboards in combination with Highcharts!
+* Highmaps is a HTML5 mapping component optimized for creating schematic maps in web based projects.
 
+##
 
 ### Example
 
